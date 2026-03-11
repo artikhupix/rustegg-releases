@@ -1,0 +1,6 @@
+{
+  "version": "1.0-SNAPSHOT",
+  "jar_url": "https://github.com/artikhupix/rustegg-releases/releases/download/client-v1.0/untitled-1.0-SNAPSHOT.jar",
+  "json_url": "https://github.com/artikhupix/rustegg-releases/releases/download/client-v1.0/untitled-1.0-SNAPSHOT.json",
+  "changelog": "Кастомный клиент Minecraft 1.12.2 с поддержкой LWJGL 3.4.1, OpenGL 4.1+, интеграцией карт Rust и оптимизацией производительности."
+}
