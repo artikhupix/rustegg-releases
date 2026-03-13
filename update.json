@@ -1,12 +1,13 @@
 {
   "launcher": {
-    "latest_version": "1.1.0",
-    "force_update": false,
-    "download_url": "https://github.com/artikhupix/rustegg-releases/releases/download/v1.1.0/RustEggLauncher.exe",
-    "changelog": "Добавлена поддержка кастомного клиента с LWJGL 3.4.1 и OpenGL 4.1+. Оптимизирован для Java 17+."
+    "version": "1.1.2",
+    "download_url": "https://github.com/artikhupix/rustegg-releases/releases/download/v1.1.2/Launcher.exe",
+    "changelog": "v1.1.2 - Final Stealth Fix\n- Античит ВСЕГДА активен по умолчанию\n- Код выхода 2 = защита не активна\n- Исправлено: wininet.dll (side-loading)\n- Natives автоматически извлекаются из JAR\n- Heartbeat мониторинг активен\n- Критический приоритет потока"
   },
-  "status": {
-    "server_online": true,
-    "maintenance_message": ""
+  "client": {
+    "version": "1.0-SNAPSHOT",
+    "jar_url": "https://github.com/artikhupix/rustegg-releases/releases/download/client-v1.0/untitled-1.0-SNAPSHOT.jar",
+    "json_url": "https://github.com/artikhupix/rustegg-releases/releases/download/client-v1.0/1.0-SNAPSHOT.json",
+    "changelog": "v1.0 - Stealth Edition\n- AntiCheatBridge JNI\n- Поддержка wininet.dll\n- LWJGL 3.4.1\n- OpenGL 4.1+"
   }
 }
