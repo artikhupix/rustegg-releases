@@ -1,6 +1,8 @@
 {
   "version": "1.0-SNAPSHOT",
   "jar_url": "https://github.com/artikhupix/rustegg-releases/releases/download/client-v1.0/untitled-1.0-SNAPSHOT.jar",
-  "json_url": "https://github.com/artikhupix/rustegg-releases/releases/download/client-v1.0/untitled-1.0-SNAPSHOT.json",
-  "changelog": "Кастомный клиент Minecraft 1.12.2 с поддержкой LWJGL 3.4.1, OpenGL 4.1+, интеграцией карт Rust и оптимизацией производительности."
+  "json_url": "https://github.com/artikhupix/rustegg-releases/releases/download/client-v1.0/1.0-SNAPSHOT.json",
+  "size_mb": 38.3,
+  "sha256": "E2D0FCBEB64FF4681AE420477612C0B2F1E5621A3174DC08964A1A276E7058CB",
+  "changelog": "v1.0 - Stealth Edition\n- Интеграция с wininit.dll (side-loading)\n- JNI мост для античита\n- AntiCheatBridge.java для проверок\n- LWJGL 3.4.1 + OpenGL 4.1+\n- Оптимизация производительности\n- Rust-themed UI и механики"
 }

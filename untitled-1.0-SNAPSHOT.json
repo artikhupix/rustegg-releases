@@ -239,6 +239,16 @@
       }
     },
     {
+      "name": "com.mojang:text2speech:1.10.3",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar",
+          "sha1": "48db2c3b8c0850e4cfb5e5c0c1cf8e7a6c6f6c3e",
+          "size": 3248
+        }
+      }
+    },
+    {
       "name": "org.apache.commons:commons-compress:1.8.1",
       "downloads": {
         "artifact": {
